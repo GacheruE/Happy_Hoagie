@@ -1,0 +1,197 @@
+/*HomePage*/
+
+.navigation{
+   	color:white;
+	font-size:large;
+	text-align:left;
+	text-decoration:none;
+	border:none;
+	padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 40px;
+	word-spacing:25px;
+		            }
+.right{
+float:right;}	
+				
+h4{
+color:purple;
+text-align:center;
+font-size:40px;
+padding-right: 30px;
+padding-left: 40px;
+padding-top: 20px;
+}
+.tag{
+	
+	color:black;
+	font-weight:bolder;
+	text-align:center;
+	font-size:20px;
+	padding-top:20px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+.buttons {
+        background-color: black;
+		text-align:center;
+        border: none;
+        color: white;
+        padding: 20px 25px;
+       text-decoration: none;
+		
+        }
+.image{                                                                                                                                                                                                                                                                                                                                                   
+background-image:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.jNXXMeEIz06OuouolNbPqAHaLG%26pid%3DApi&f=1');
+position:relative;
+top: -25px;
+}
+
+h5{
+color:purple;
+font-size:40px;
+text-align:center;
+padding-top: 20px;
+padding-right: 30px;
+padding-bottom: 25px;
+padding-left: 40px;
+}
+
+h6{color:purple;
+font-size:40px;}
+
+.three{
+background-color:grey;}
+
+.align{
+text-align:center;}
+
+.people,.person{
+float:center;
+font-size:20px;}
+
+.benefit{
+font-size:20px;
+
+}
+#footer{
+text-align:center;}
+
+.table{
+background-color:black;
+color:white;
+font-size:20px;
+text-align:center;
+border-collapse:separate;}
+
+table{
+border-collapse:separate;
+border-spacing:20px;
+padding:20px;
+}
+
+td {
+        width: 350px;
+        text-align: center;
+        border: 1px solid black;
+padding: 5px;}
+						 
+	
+/*Login Page*/
+.one {
+		
+		 text-align: center; 
+		 background-color:grey;
+	}
+.header
+{text-align:left;
+}
+.h1{
+text-align:center;
+position:relative;
+top: -25px;}
+
+.bodies{
+ background-image:url('https://omnivorescookbook.com/wp-content/uploads/2020/03/1912_Leftover-Ham-Banh-Mi_003.jpg');
+font-size:23px;
+font-weight:bold;
+padding-right: 30px;
+padding-left: 40px;
+padding-top: 30px;
+
+}
+.href{
+float:right;
+font-size:18px;
+word-spacing:25px;}	
+
+/*SignUp Page*/
+
+.two
+		{
+		text-align:center;
+		background-color:grey;
+		
+		}
+h2
+{text-align:center;
+font-size:33px;
+ position:relative;
+top: -30px;
+	}
+.button {
+        background-color: black;
+        border: none;
+        color: orange;
+        padding: 15px 20px ;
+        text-decoration: none;
+        }
+.headers
+{text-align:left;
+
+}
+.bodys{
+text-align:center;
+padding-top:25px;
+padding-bottom:0px;
+font-weight:bold;
+font-size:18px;
+position:relative;
+top: -35px;
+background-image:url('https://w7.pngwing.com/pngs/11/357/png-transparent-taco-mexican-cuisine-salsa-coleslaw-fajita-shrimps-food-animals-seafood.png');
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+table,td,th{
+			border:solid;
+			border-collapse:collapse;
+			margin-top:30px;
+			padding:30px;
+						 }
+th{
+			background-color:grey;}
+.href{
+float:right;
+font-size:18px;
+word-spacing:25px;}	
+
+.mypanel{
+column-count:3;
+font-size:20px;
+color:black;}
+
+
+
+
+
+a:link{
+color:purple}
+a:visited{
+color:orange}
+a:hover{
+color:red}
+
